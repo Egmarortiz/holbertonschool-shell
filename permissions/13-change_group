@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school /home/egmarortiz/holbertonschool-shell/permissions
+chgrp school /home/egmarortiz/holbertonschool-shell/permissions/hello
