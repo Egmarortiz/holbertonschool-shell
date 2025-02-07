@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo useradd -m -s /bin/bash betty
+sudo adduser betty
