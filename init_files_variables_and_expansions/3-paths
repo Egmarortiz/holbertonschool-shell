@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "$PATH" | tr ':' '\n' | wc -l
+#!/bin/bash
+echo "$PATH" | tr ':' '\n' | xargs -n1 sh -c $'if test -d "$1"\nthen echo "$1"\nfi' _ | wc -l
+
