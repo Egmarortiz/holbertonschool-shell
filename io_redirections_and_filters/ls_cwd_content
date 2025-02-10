@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 egmarortiz egmarortiz 4096 Feb 10 08:34 .
+drwxr-xr-x 6 egmarortiz egmarortiz 4096 Feb  9 21:35 ..
+-rwxr--r-- 1 egmarortiz egmarortiz   32 Feb  9 21:46 0-hello_world
+-rwxr--r-- 1 egmarortiz egmarortiz   25 Feb  9 22:09 1-confused_smiley
+-rwxr--r-- 1 egmarortiz egmarortiz   28 Feb  9 22:10 2-hellofile
+-rwxr--r-- 1 egmarortiz egmarortiz   39 Feb  9 22:14 3-twofiles
+-rwxr--r-- 1 egmarortiz egmarortiz   29 Feb  9 22:17 4-lastlines
+-rwxr--r-- 1 egmarortiz egmarortiz   29 Feb  9 22:20 5-firstlines
+-rwxr--r-- 1 egmarortiz egmarortiz   40 Feb  9 22:33 6-third_line
+-rwxr--r-- 1 egmarortiz egmarortiz   91 Feb 10 08:29 7-file
+-rwxr--r-- 1 egmarortiz egmarortiz   36 Feb 10 08:34 8-cwd_state
+-rw-r--r-- 1 egmarortiz egmarortiz   32 Feb  9 21:45 README.md
+-rw-r--r-- 1 egmarortiz egmarortiz   12 Feb 10 08:22 \*\\'"Best School"'\\*\$\?\*\*\*\*\*:)
+-rw-r--r-- 1 egmarortiz egmarortiz    0 Feb 10 08:34 ls_cwd_content
